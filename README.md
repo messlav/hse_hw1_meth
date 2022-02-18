@@ -32,4 +32,24 @@ bash script
 ![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.24.05.png)
 ![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.24.14.png)
 ![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.24.22.png)
+### e
+code for one
+```
+df = pd.read_csv("s_SRR3824222_1_bismark_bt2_pe.deduplicated.bedGraph", delimiter='\t', skiprows=1, header=None)
 
+plt.figure(figsize=[15, 10])
+
+plt.hist(df[3], bins=100, density=True)
+
+plt.title('Распределение метилирования цитозинов Epiblast', fontsize=10)
+plt.show()
+```
+![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.25.30.png)
+![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.25.36.png)
+![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.25.42.png)
+
+### f
+Покрытие:
+![](https://github.com/messlav/hse_hw1_meth/blob/main/images/image_cov.png)
+Милитирование:
+![](https://github.com/messlav/hse_hw1_meth/blob/main/images/image_cov2.png)
