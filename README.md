@@ -13,13 +13,11 @@ SRR5836473_1            |  RNA
 
 SRR5836473_1            |  RNA
 :-------------------------:|:-------------------------:
-![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.00.19.png)  |  
-![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.00.26.png)
+![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.00.19.png)  |  ![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.00.26.png)
 
 SRR5836473_1            |  RNA
 :-------------------------:|:-------------------------:
-![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.01.07.png)  |  
-![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.00.58.png)
+![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.01.07.png)  |  ![](https://github.com/messlav/hse_hw1_meth/blob/main/images/Снимок%20экрана%202022-02-18%20в%2021.00.58.png)
 
 ## 2
 colab https://colab.research.google.com/drive/10j6JGdhSrv4vZQ9GDwwH8SQehlR84Exp?usp=sharing
